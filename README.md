@@ -12,7 +12,7 @@ Técnico de Nivel Medio en Programación y estudiante de Ingeniería civl en inf
 
 # Motor de Inventario de Alto Rendimiento (Árboles Rojo-Negro)
 
-[cite_start]Sistema transaccional de gestión de inventario desarrollado en Java[cite: 540]. [cite_start]El proyecto simula un entorno de alta demanda mediante la implementación y evaluación de tablas de símbolos basadas en árboles de búsqueda [cite: 21][cite_start], procesando cientos de miles de transacciones de stock con validación de estado[cite: 391, 392].
+Sistema transaccional de gestión de inventario desarrollado en Java. El proyecto simula un entorno de alta demanda mediante la implementación y evaluación de tablas de símbolos basadas en árboles de búsqueda, procesando cientos de miles de transacciones de stock con validación de estado.
 
 ## ⚙️ Arquitectura y Estructuras de Datos
 * **Motor Principal:** Implementación de Árboles Rojo-Negro (`RedBlackBST`) para garantizar operaciones de búsqueda, inserción y eliminación en tiempo $O(\log n)$, evitando la degradación a $O(n)$ que sufren los árboles binarios de búsqueda no balanceados (`BST`).
