@@ -3,7 +3,7 @@
 Técnico de Nivel Medio en Programación y estudiante de Ingeniería civl en informatica y telecomunicaciones. Orientado al desarrollo de software, eficiencia algorítmica y la integración de fundamentos matemáticos complejos en soluciones tecnológicas.
 
 ## 🛠️ Stack Técnico y Conocimientos
-* **Lenguajes y Bases de Datos:** C++, Java, SQL.
+* **Lenguajes y Bases de Datos:** C++, Java, MySQL.
 * **Desarrollo Web:** HTML, CSS, JavaScript.
 * **Ciencias de la Computación:** Estructuras de Datos, Diseño de Algoritmos, Arquitectura de Redes de Datos.
 * **Matemáticas Aplicadas:** Álgebra Lineal, Cálculo Multivariable, Ecuaciones Diferenciales Ordinarias.
